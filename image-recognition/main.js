@@ -33,6 +33,13 @@ window.addEventListener('DOMContentLoaded', function () {
     }, errBack)
   }
 
+  var imageOptions = {
+    token: 'inmovilizar',
+    url: 'http://localhost:3000/imagear/postimage'
+  }
+
   var capture = new craftar.Capture(video)
-  console.log(capture)
+  var cloudRecognition = new craftar.CloudRecognition(imageOptions)
+
+  cloudRecognition.singleShot(capture)
 }, false)

@@ -1,5 +1,6 @@
 .DS_Store
 node_modules
-config/vuforia.config.js
+config/*.js
 image-recognition/craftar-js
+image-recognition/config/*.js
 bower_components
