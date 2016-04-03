@@ -19,6 +19,9 @@
   * WebGL Fundamentals 👉 [https://webglfundamentals.org/](https://webglfundamentals.org/) 
   * MDN WebGL API 👉 [https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 
+* WebAR
+  * JS AR Toolkit 👉 [https://github.com/kig/JSARToolKit](https://github.com/kig/JSARToolKit) 
+
 * Inspiration
-  * Unboring - inspirit (by ) 👉[http://unboring.net/cases/inspirit.html](http://unboring.net/cases/inspirit.html)
+  * Unboring - inspirit (by ) 👉 [http://unboring.net/cases/inspirit.html](http://unboring.net/cases/inspirit.html)
    
